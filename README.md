@@ -1,4 +1,20 @@
-# Website:
+# Experiment-2
+Create a commercial website using HTML & CSS
+# Aim:
+To create a commercial website using HTML & CSS.
+
+# Algorithm:
+1.Start React project,using "create-react-app projectName".
+
+2.To create the folder,go to the folder using "code .".
+
+3.To start the website using localhost,npm start.
+
+4.Edit the components in the folder,for the project.
+
+5.Edit App.js and enter the HTML code in the return and render.
+
+
 ```
 PROGRAM DEVELOPED BY: SOMEASVAR.R
 REG NO: 212221230103
@@ -291,3 +307,5 @@ img {
 ```
 https://github.com/SOMEASVAR/Website.git
 ```
+# RESULT:
+Thus to create a commercial website using HTML & CSS is created successfully.
